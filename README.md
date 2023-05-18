@@ -6,6 +6,7 @@ How am I❓
 A talented and passionate front-end developer with a flair for creating captivating user experiences. With a deep understanding of web technologies and a keen eye for design, I possess the perfect blend of technical expertise and artistic sensibility.
 
 Which are my skills❓ 
+
 As a front-end developer, I try to demonstrate exceptional proficiency in HTML, CSS, JavaScript and sometimes React, transforming complex concepts into elegant and intuitive interfaces. Whether it's crafting pixel-perfect layouts, optimizing website performance, or ensuring cross-browser compatibility, I'm offering a meticulous attention to detail.
 
 ---
