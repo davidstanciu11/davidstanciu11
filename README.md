@@ -25,7 +25,7 @@ As a front-end developer, I try to demonstrate exceptional proficiency in HTML, 
 
 ### 📊 Stats
 
-![David's Github Stats](https://github-readme-stats.vercel.app/api?davidstanciu=anuraghazra&show_icons=true&theme=monokai)
+![David's Github Stats](https://github-readme-stats.vercel.app/api?username=davidstanciu11&show_icons=true&theme=monokai)
           
 
 
