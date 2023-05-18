@@ -3,6 +3,7 @@
 **`Digital Amateur(Developer/Designer/Creator)`**
 
 How am I❓  
+
 A talented and passionate front-end developer with a flair for creating captivating user experiences. With a deep understanding of web technologies and a keen eye for design, I possess the perfect blend of technical expertise and artistic sensibility.
 
 Which are my skills❓ 
@@ -24,7 +25,7 @@ As a front-end developer, I try to demonstrate exceptional proficiency in HTML, 
 
 ### 📊 Stats
 
-![David's Github Stats](https://github-readme-stats.vercel.app/api?davidstanciu11=anuraghazra&show_icons=true&theme=monokai)
+![David's Github Stats](https://github-readme-stats.vercel.app/api?davidstanciu=anuraghazra&show_icons=true&theme=monokai)
           
 
 
